@@ -1,6 +1,7 @@
 
-# C:\Users\vidas\Anaconda3\Scripts\pip.exe
-# C:\Users\vidas\Anaconda3\python.exe
+# C:\Users\_\Anaconda3\Scripts\pip.exe
+# C:\Users\_\Anaconda3\python.exe
+# https://github.com/cheater/haskell-python-stateful-call
 
 # import os as o
 
